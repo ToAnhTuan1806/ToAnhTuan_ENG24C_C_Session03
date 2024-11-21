@@ -17,8 +17,8 @@ int main(){
 	average = sum/3;
 	
 // B4 In ket qua ra man hinh
-	printf("Tong diem = %.1f\n", sum);
-	printf("Diem trung binh = %.1f", average);
+	printf("Tong diem = %.2f\n", sum);
+	printf("Diem trung binh = %.2f", average);
 	
 // B5 Ket thuc
 	return 0;
